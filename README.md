@@ -1,0 +1,1 @@
+The dataset used in this project is the Bank Marketing Dataset, which contains information about a bank's marketing campaigns conducted through direct mail and phone calls. The dataset was originally collected for predicting whether a customer would subscribe to a term deposit (a fixed-term investment) based on various attributes related to the customer and the marketing effort.
